@@ -1,0 +1,2 @@
+clear
+pkg install git
